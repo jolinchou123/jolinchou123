@@ -12,30 +12,30 @@ I have hands-on experience in:
 
 ## 🧠 Technical Skills
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=black&labelColor=white)
-![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=black&labelColor=white)
-![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=black&labelColor=white)
-![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=black&labelColor=white)
-![Swift](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=black&labelColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-informational?style=flat&logoColor=black&labelColor=white)
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-2D2D2D?style=flat&logo=java&logoColor=F89820)
+![Python](https://img.shields.io/badge/Python-2D2D2D?style=flat&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-2D2D2D?style=flat&logo=c%2B%2B&logoColor=00599C)
+![C](https://img.shields.io/badge/C-2D2D2D?style=flat&logo=c&logoColor=A8B9CC)
+![Swift](https://img.shields.io/badge/Swift-2D2D2D?style=flat&logo=swift&logoColor=FA7343)
+![MATLAB](https://img.shields.io/badge/MATLAB-2D2D2D?style=flat&logo=mathworks&logoColor=E16737)
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=black&labelColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=black&labelColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&labelColor=white)
-![PHP](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=black&labelColor=white)
-![JSP](https://img.shields.io/badge/JSP-informational?style=flat&logoColor=black&labelColor=white)
-![Ajax](https://img.shields.io/badge/Ajax-informational?style=flat&logoColor=black&labelColor=white)
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-2D2D2D?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-2D2D2D?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-2D2D2D?style=flat&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-2D2D2D?style=flat&logo=php&logoColor=777BB4)
+![JSP](https://img.shields.io/badge/JSP-2D2D2D?style=flat&logoColor=CB0000)
+![Ajax](https://img.shields.io/badge/Ajax-2D2D2D?style=flat&logoColor=00BFFF)
 
-### 🛠️ Tools & Frameworks
-![Android Studio](https://img.shields.io/badge/Android%20Studio-informational?style=flat&logo=android-studio&logoColor=black&labelColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-informational?style=flat&logo=opencv&logoColor=black&labelColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-informational?style=flat&logo=opengl&logoColor=black&labelColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=black&labelColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=black&labelColor=white)
-![Apache JMeter](https://img.shields.io/badge/JMeter-informational?style=flat&logo=apache&logoColor=black&labelColor=white)
-![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=black&labelColor=white)
+### 🛠️ Tools & Frameworks  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-2D2D2D?style=flat&logo=android-studio&logoColor=3DDC84)
+![OpenCV](https://img.shields.io/badge/OpenCV-2D2D2D?style=flat&logo=opencv&logoColor=5C3EE8)
+![OpenGL](https://img.shields.io/badge/OpenGL-2D2D2D?style=flat&logo=opengl&logoColor=5586A4)
+![MySQL](https://img.shields.io/badge/MySQL-2D2D2D?style=flat&logo=mysql&logoColor=4479A1)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-2D2D2D?style=flat&logo=scikit-learn&logoColor=F7931E)
+![Apache JMeter](https://img.shields.io/badge/JMeter-2D2D2D?style=flat&logo=apache&logoColor=D22128)
+![Git](https://img.shields.io/badge/Git-2D2D2D?style=flat&logo=git&logoColor=F05032)
 
 ### 🎯 Specialties
 - Software Testing  
