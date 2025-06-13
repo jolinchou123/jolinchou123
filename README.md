@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Jolin (Hsi-Min) Chou
-
----
+## 👋 Hi there, I'm Jolin Chou
 
 ## 👩‍💻 About Me
 
@@ -46,14 +44,6 @@ I have hands-on experience in:
 - Augmented Reality (AR) Applications  
 - Computer Vision  
 - Database Management
-
----
-
-## 🚀 Let's Connect
-
-I’m always open to collaborating on exciting projects, especially those involving interactive systems, software quality, or real-time applications. Feel free to reach out or explore my work:
-
-🌐 [LinkedIn](https://linkedin.com/in/hsi-min-chou) | 💻 [GitHub](https://github.com/jolinchou123)
 
 <!--
 **jolinchou123/jolinchou123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
