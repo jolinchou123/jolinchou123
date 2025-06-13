@@ -13,29 +13,29 @@ I have hands-on experience in:
 ## 🧠 Technical Skills
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=flat)
+![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=black&labelColor=white)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=black&labelColor=white)
+![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=black&labelColor=white)
+![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=black&labelColor=white)
+![Swift](https://img.shields.io/badge/Swift-informational?style=flat&logo=swift&logoColor=black&labelColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-informational?style=flat&logoColor=black&labelColor=white)
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-%23f44336.svg?style=flat)
-![Ajax](https://img.shields.io/badge/Ajax-%2300BFFF.svg?style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=black&labelColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=black&labelColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&labelColor=white)
+![PHP](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=black&labelColor=white)
+![JSP](https://img.shields.io/badge/JSP-informational?style=flat&logoColor=black&labelColor=white)
+![Ajax](https://img.shields.io/badge/Ajax-informational?style=flat&logoColor=black&labelColor=white)
 
 ### 🛠️ Tools & Frameworks
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23004888.svg?style=flat&logo=opencv&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Apache JMeter](https://img.shields.io/badge/JMeter-%23D22128.svg?style=flat&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-informational?style=flat&logo=android-studio&logoColor=black&labelColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-informational?style=flat&logo=opencv&logoColor=black&labelColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-informational?style=flat&logo=opengl&logoColor=black&labelColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=black&labelColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=black&labelColor=white)
+![Apache JMeter](https://img.shields.io/badge/JMeter-informational?style=flat&logo=apache&logoColor=black&labelColor=white)
+![Git](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=black&labelColor=white)
 
 ### 🎯 Specialties
 - Software Testing  
