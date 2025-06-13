@@ -1,6 +1,6 @@
 ## 👩‍💻 About Me
 
-Hi there, I'm Jolin Chou 👋. I’m a passionate **Software Engineer** with a Master’s degree in Computer Science and Engineering from **University of California, Riverside**. I specialize in software testing, web development, and computer vision, with a deep interest in creating clean, scalable, and efficient solutions that improve user experience.
+Hi there, I'm Jolin Chou 👋. I’m a passionate **Software Engineer**. I specialize in software testing, web development, and computer vision, with a deep interest in creating clean, scalable, and efficient solutions that improve user experience.
 
 I have hands-on experience in:
 - Building user-centric web applications
